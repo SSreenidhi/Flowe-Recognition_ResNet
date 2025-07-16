@@ -21,6 +21,19 @@ To accurately classify flower images into:
 
 ---
 
+## 📷 Class Distribution
+
+| Class      | Image Count |
+|------------|-------------|
+| Daisy      | 764         |
+| Dandelion  | 1052        |
+| Rose       | 784         |
+| Sunflower  | 733         |
+| Tulip      | 984         |
+
+---
+
+
 ## 🔄 Data Augmentation
 
 Applied to increase generalization and robustness:
