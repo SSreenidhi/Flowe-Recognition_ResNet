@@ -37,7 +37,7 @@ Applied to increase generalization and robustness:
 | Model                 | Validation Accuracy |
 |-----------------------|---------------------|
 | Basic CNN             | ~86%                |
-| VGG16-based CNN       | ~89%                |
+| VGG16-based CNN       | ~90%                |
 | EfficientNetB0        | 93.28%              |
 | ResNet50 (Fine-tuned) | 93.63%              |
 
@@ -54,8 +54,8 @@ Accuracy and loss curves were tracked across training epochs.
 
 The trained models (best performing) are available here:
 
-- [Model 3 – EfficientNetB0](https://drive.google.com/file/d/ZZZZZZZ/view?usp=sharing)
-- [Model 4 – Fine-tuned ResNet50](https://drive.google.com/file/d/AAAAAAA/view?usp=sharing)
+- [Model 3 – EfficientNetB0](https://drive.google.com/file/d/1rNjTh05HMzC42ac4wkDx2V8ZYDDyrYf3/view?usp=sharing)
+- [Model 4 – Fine-tuned ResNet50](https://drive.google.com/file/d/1uJHMmi8NGfTyJyenN10FujpTJbej3Xg_/view?usp=sharing)
 
 📌 **Note:** Download and place them in the same directory as your `.ipynb` file (or as expected in your notebook).
 
